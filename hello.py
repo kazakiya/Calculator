@@ -1,2 +1,7 @@
 print('Hello World')
-print('Sawasdee Kak')
+
+
+name = 'Kak'
+lastname = 'Programer'
+fullname = name + ' '+ lastname
+print(fullname)
